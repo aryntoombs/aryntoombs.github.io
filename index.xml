@@ -6,5 +6,14 @@
     <description>Recent content on Charting Alberta Covid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://aryntoombs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variants of Concern</title>
+      <link>http://aryntoombs.github.io/voc/</link>
+      <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
+      
+      <guid>http://aryntoombs.github.io/voc/</guid>
+      <description>Page Header CONTENT</description>
+    </item>
+    
   </channel>
 </rss>
