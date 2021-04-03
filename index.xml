@@ -7,12 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://aryntoombs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Schools and Students</title>
+      <link>http://aryntoombs.github.io/schools/</link>
+      <pubDate>Fri, 02 Apr 2021 18:50:41 -0600</pubDate>
+      
+      <guid>http://aryntoombs.github.io/schools/</guid>
+      <description>Covid-19 in Alberta Schools ChartsSee Support our Students Alberta for the complete list of schools with Covid-19 cases.
+</description>
+    </item>
+    
+    <item>
       <title>Variants of Concern</title>
       <link>http://aryntoombs.github.io/voc/</link>
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>CONTENT</description>
+      <description>Variants of Concern ChartsThe two most current days are not shown on the chart as the delay in identifying VOC cases takes approximately two days.
+</description>
     </item>
     
   </channel>
