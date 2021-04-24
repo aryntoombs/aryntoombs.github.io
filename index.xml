@@ -32,7 +32,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/outbreaks/</guid>
-      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone71Edmonton Zone48South Zone18Central Zone17North Zone33 Covid-19 outbreaks (not including schools, see below) current as of Fri, Apr 23, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
+      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone71Edmonton Zone48South Zone18Central Zone17North Zone33 Covid-19 outbreaks (not including schools, see below) current as of Sat, Apr 24, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
 Outbreak Charts Alberta Schools are not included on this map after January 18th, 2021 as the criteria for outbreaks in schools changed.</description>
     </item>
     
@@ -42,7 +42,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/severe/</guid>
-      <description>Severe Outcomes: Hospitalization Charts</description>
+      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-04-22 Total 7416 1273 2059 77 20 5   2021-04-22 Under 1 year 48 12 0 0 0 0   2021-04-22 1-4 years 27 5 0 0 0 0   2021-04-22 5-9 years 24 11 0 2 1 0   2021-04-22 10-19 years 107 14 0 2 0 0   2021-04-22 20-29 years 376 40 9 3 0 0   2021-04-22 30-39 years 634 75 10 10 3 0   2021-04-22 40-49 years 801 166 31 16 5 0   2021-04-22 50-59 years 1135 266 75 20 4 0   2021-04-22 60-69 years 1304 358 227 11 6 1   2021-04-22 70-79 years 1285 247 414 9 1 2   2021-04-22 80+ years 1672 78 1292 4 0 2   2021-04-22 Unknown 3 1 1 0 0 0    Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases11738320VOC Percentage60.4%0.837%Total VOC cases224451184Total VOC recovered10643861Total deaths from VOC643VOC specimens screened454141507 Covid-19 variants of concern data current as of Thu, Apr 22, 2021</description>
+      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases11999261VOC Percentage60.9%0.54%Total VOC cases235771132Total VOC recovered11512869Total deaths from VOC662VOC specimens screened467681354 Covid-19 variants of concern data current as of Fri, Apr 23, 2021</description>
     </item>
     
   </channel>
