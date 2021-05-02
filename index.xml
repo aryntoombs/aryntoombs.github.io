@@ -42,7 +42,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/regional/</guid>
-      <description>Regional Cases Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-04-29    Date Region Active per 100k Active Cases    2021-04-29 Banff 1063.1 143   2021-04-29 Calgary - Upper Ne 753.7 912   2021-04-29 Calgary - Se 697.1 937   2021-04-29 Calgary - Lower Ne 617.8 596   2021-04-29 Chestermere (Nearby Rocky View County) 612.</description>
+      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-04-30    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-04-30 Banff 1048.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/severe/</guid>
-      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-04-30 Total 7925 1379 2083 66 14 1   2021-04-30 Under 1 year 54 13 0 2 0 0   2021-04-30 1-4 years 29 5 0 0 0 0   2021-04-30 5-9 years 24 12 0 1 1 0   2021-04-30 10-19 years 119 16 0 1 0 0   2021-04-30 20-29 years 415 43 8 6 0 0   2021-04-30 30-39 years 696 88 11 9 4 0   2021-04-30 40-49 years 887 182 31 8 3 0   2021-04-30 50-59 years 1263 297 81 22 1 0   2021-04-30 60-69 years 1393 387 229 7 4 0   2021-04-30 70-79 years 1344 257 423 5 1 1   2021-04-30 80+ years 1698 78 1299 5 0 0   2021-04-30 Unknown 3 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
+      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-01 Total 7977 1396 2086 52 17 3   2021-05-01 Under 1 year 54 13 0 0 0 0   2021-05-01 1-4 years 30 5 0 1 0 0   2021-05-01 5-9 years 24 12 0 0 0 0   2021-05-01 10-19 years 120 16 0 1 0 0   2021-05-01 20-29 years 417 43 8 2 0 0   2021-05-01 30-39 years 703 90 11 7 2 0   2021-05-01 40-49 years 897 183 32 10 1 1   2021-05-01 50-59 years 1282 305 81 19 8 0   2021-05-01 60-69 years 1400 391 230 7 4 1   2021-05-01 70-79 years 1347 258 423 3 1 0   2021-05-01 80+ years 1700 79 1300 2 1 1   2021-05-01 Unknown 3 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
     </item>
     
     <item>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases13986546VOC Percentage62.1%0.577%Total VOC cases319821743Total VOC recovered179101196Total deaths from VOC861VOC specimens screened580131792 Covid-19 variants of concern data current as of Fri, Apr 30, 2021</description>
+      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases14215229VOC Percentage62%-0.129%Total VOC cases331141132Total VOC recovered18811901Total deaths from VOC882VOC specimens screened591191106 Covid-19 variants of concern data current as of Sat, May 01, 2021</description>
     </item>
     
   </channel>

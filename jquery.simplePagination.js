@@ -8,7 +8,7 @@
 (function($) {
 
 	$.fn.simplePagination = function(options) {
-		
+
 		var defaults = {
 			perPage: 5,
 			containerClass: '',
@@ -81,7 +81,7 @@
 				$rows.hide();
 				$rows.slice((from-1), to).show();
 
-				of.innerHTML = from + ' to ' + to + ' of ' + $rows.length + ' entries';
+				of.innerHTML = from + ' to ' + to + ' of ' + $rows.length + ' rows';
 
 				if ($rows.length <= settings.perPage) {
 					$(container).hide();
