@@ -34,7 +34,7 @@
       <guid>http://aryntoombs.github.io/brief/</guid>
       <description>Daily Covid-19 BriefingMonday, May 03, 2021 - Prepared by ALPINE1
 Today 1,996 new cases of Covid-19 were identified in the province. The adjusted total of cases is 2,012 including changes to previous case numbers between January 5th and May 1st.
-The current seven day rolling average of cases is 1,969, a 3.7% increase from the day before. This time last week the rolling average was 1,593. This is an increase of 24%.</description>
+The current seven day rolling average of cases is 1,969, an increase of 3.7% from the day before. This time last week the rolling average was 1,593. This is an increase of 24%.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@ The current seven day rolling average of cases is 1,969, a 3.7% increase from th
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/regional/</guid>
-      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-02    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-02 Banff 847.</description>
+      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-03    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-03 Calgary - Upper Ne 790.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ The current seven day rolling average of cases is 1,969, a 3.7% increase from th
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/severe/</guid>
-      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-02 Total 8048 1409 2090 71 13 4   2021-05-02 Under 1 year 54 13 0 0 0 0   2021-05-02 1-4 years 30 5 0 0 0 0   2021-05-02 5-9 years 25 12 0 1 0 0   2021-05-02 10-19 years 124 17 0 4 1 0   2021-05-02 20-29 years 425 43 8 8 0 0   2021-05-02 30-39 years 716 94 11 13 4 0   2021-05-02 40-49 years 908 185 32 11 2 0   2021-05-02 50-59 years 1304 309 82 22 4 1   2021-05-02 60-69 years 1408 393 230 8 2 0   2021-05-02 70-79 years 1349 258 425 2 0 2   2021-05-02 80+ years 1702 79 1301 2 0 1   2021-05-02 Unknown 3 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
+      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-03 Total 8106 1423 2099 58 14 9   2021-05-03 Under 1 year 54 13 0 0 0 0   2021-05-03 1-4 years 31 5 0 1 0 0   2021-05-03 5-9 years 25 12 0 0 0 0   2021-05-03 10-19 years 124 17 0 0 0 0   2021-05-03 20-29 years 429 44 8 4 1 0   2021-05-03 30-39 years 724 95 11 8 1 0   2021-05-03 40-49 years 920 185 32 12 0 0   2021-05-03 50-59 years 1313 315 82 9 6 0   2021-05-03 60-69 years 1423 397 234 15 4 4   2021-05-03 70-79 years 1352 260 427 3 2 2   2021-05-03 80+ years 1708 79 1304 6 0 3   2021-05-03 Unknown 3 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ The current seven day rolling average of cases is 1,969, a 3.7% increase from th
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases15054839VOC Percentage63.8%1.75%Total VOC cases350141900Total VOC recovered198681057Total deaths from VOC924VOC specimens screened615892470 Covid-19 variants of concern data current as of Sun, May 02, 2021</description>
+      <description>Current Covid-19 VOC Cases in AlbertaActive VOC cases14728-326VOC Percentage62.3%-1.42%Total VOC cases35890876Total VOC recovered210631195Total deaths from VOC997VOC specimens screened627521163 Covid-19 variants of concern data current as of Mon, May 03, 2021</description>
     </item>
     
   </channel>
