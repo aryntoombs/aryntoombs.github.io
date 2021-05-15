@@ -32,9 +32,9 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/brief/</guid>
-      <description>Daily Covid-19 BriefingFriday, May 14, 2021 - Prepared by ALPINE1
-Today 1,532 new cases of Covid-19 were identified in the province. The adjusted total of cases is 1,433 including changes to previous case numbers between January 8th and May 12th.
-The current 7 day trend of cases is 1,486, a decrease of -3.6% from the day before. This time last week trend was 1,905. This is a decrease of -22%.</description>
+      <description>Daily Covid-19 BriefingSaturday, May 15, 2021 - Prepared by ALPINE1
+Today 1,265 new cases of Covid-19 were identified in the province. The adjusted total of cases is 1,195 including changes to previous case numbers between January 8th and May 13th.
+The current 7 day trend of cases is 1,332, a decrease of -4.8% from the day before. This time last week trend was 1,838. This is a decrease of -28%.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@ The current 7 day trend of cases is 1,486, a decrease of -3.6% from the day befo
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/regional/</guid>
-      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-13    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-13 Crossfield (Nearby Rocky View County) 1047.</description>
+      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-14    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-14 Crossfield (Nearby Rocky View County) 1004.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ The current 7 day trend of cases is 1,486, a decrease of -3.6% from the day befo
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/severe/</guid>
-      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-13 Total 8699 1547 2137 19 13 5   2021-05-13 Under 1 year 57 13 0 0 0 0   2021-05-13 1-4 years 40 6 0 0 0 0   2021-05-13 5-9 years 24 12 0 0 0 0   2021-05-13 10-19 years 137 18 0 -1 0 0   2021-05-13 20-29 years 468 48 9 1 0 0   2021-05-13 30-39 years 784 101 12 -2 0 0   2021-05-13 40-49 years 1027 205 36 3 4 0   2021-05-13 50-59 years 1472 356 85 8 1 0   2021-05-13 60-69 years 1526 427 241 4 4 1   2021-05-13 70-79 years 1414 278 435 4 2 1   2021-05-13 80+ years 1746 82 1318 2 2 3   2021-05-13 Unknown 4 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
+      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-14 Total 8754 1555 2140 55 8 3   2021-05-14 Under 1 year 57 13 0 0 0 0   2021-05-14 1-4 years 39 6 0 -1 0 0   2021-05-14 5-9 years 24 12 0 0 0 0   2021-05-14 10-19 years 138 18 0 1 0 0   2021-05-14 20-29 years 473 49 9 5 1 0   2021-05-14 30-39 years 788 103 12 4 2 0   2021-05-14 40-49 years 1039 206 37 12 1 1   2021-05-14 50-59 years 1484 356 85 12 0 0   2021-05-14 60-69 years 1539 429 241 13 2 0   2021-05-14 70-79 years 1419 280 436 5 2 1   2021-05-14 80+ years 1750 82 1319 4 0 1   2021-05-14 Unknown 4 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ The current 7 day trend of cases is 1,486, a decrease of -3.6% from the day befo
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>Current Covid-19 VOC Cases in AlbertaTotal VOC cases identified40388492Total deaths from VOC1306VOC specimens screened68544489 Covid-19 variants of concern data current as of Thu, May 13, 2021. Alberta is no longer testing all samples for VOCs, and due to previous widespread growth in VOC cases all current Covid-19 cases should be considered as VOC cases.</description>
+      <description>Current Covid-19 VOC Cases in AlbertaTotal VOC cases identified40774386Total deaths from VOC1344VOC specimens screened68963419 Covid-19 variants of concern data current as of Fri, May 14, 2021. Alberta is no longer testing all samples for VOCs, and due to previous widespread growth in VOC cases all current Covid-19 cases should be considered as VOC cases.</description>
     </item>
     
   </channel>
