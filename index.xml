@@ -32,9 +32,9 @@
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/brief/</guid>
-      <description>Daily Covid-19 BriefingTuesday, May 18, 2021 - Prepared by ALPINE1
-Today 942 new cases of Covid-19 were identified in the province. The adjusted total of cases is 877 including changes to previous case numbers between November 12th and May 16th.
-The current 7 day trend of cases is 978, a decrease of -7.3% from the day before. This time last week trend was 1,622. This is a decrease of -40%.</description>
+      <description>Daily Covid-19 BriefingWednesday, May 19, 2021 - Prepared by ALPINE1
+Today 959 new cases of Covid-19 were identified in the province. The adjusted total of cases is 908 including changes to previous case numbers between December 6th and May 17th.
+The current 7 day trend of cases is 882, a decrease of -7.7% from the day before. This time last week trend was 1,514. This is a decrease of -42%.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ The current 7 day trend of cases is 978, a decrease of -7.3% from the day before
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/outbreaks/</guid>
-      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone128Edmonton Zone62South Zone19Central Zone23North Zone54 Covid-19 outbreaks (not including schools, see below) current as of Fri, May 14, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
+      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone140Edmonton Zone68South Zone17Central Zone28North Zone57 Covid-19 outbreaks (not including schools, see below) current as of Tue, May 18, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
 Outbreak Charts Alberta Schools are not included on this map after January 18th, 2021 as the criteria for outbreaks in schools changed.</description>
     </item>
     
@@ -53,7 +53,7 @@ The current 7 day trend of cases is 978, a decrease of -7.3% from the day before
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/regional/</guid>
-      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-17    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-17 Calgary - Upper Ne 895.</description>
+      <description>Jump to regional zoneCalgaryEdmontonNorthCentralSouthRegional Cases: Calgary Zone    Calgary Zone Active Covid-19 Cases   Active per 100k rate and active cases, updated on 2021-05-18    Date Region Active per 100k Change to Active per 100k Active Cases Change to Active Cases    2021-05-18 Crossfield (Nearby Rocky View County) 883.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ The current 7 day trend of cases is 978, a decrease of -7.3% from the day before
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/severe/</guid>
-      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-17 Total 8883 1592 2152 35 4 4   2021-05-17 Under 1 year 56 13 0 0 0 0   2021-05-17 1-4 years 39 6 0 0 0 0   2021-05-17 5-9 years 24 12 0 0 0 0   2021-05-17 10-19 years 139 18 0 0 0 0   2021-05-17 20-29 years 482 50 9 3 0 0   2021-05-17 30-39 years 814 108 12 5 1 0   2021-05-17 40-49 years 1064 215 37 7 1 0   2021-05-17 50-59 years 1513 365 87 9 0 2   2021-05-17 60-69 years 1562 437 244 8 2 1   2021-05-17 70-79 years 1429 285 441 2 0 1   2021-05-17 80+ years 1757 82 1321 1 0 0   2021-05-17 Unknown 4 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
+      <description>Severe Outcomes: Hospitalization ChartsSevere Outcomes Tables   Covid-19 Severe Outcomes by Date   Hospitalizations, ICU admissions, and deaths    Date Age Group Totals  Changes as of Date    Hosp. ICU Deaths New Hosp. New ICU New Deaths    2021-05-18 Total 8962 1615 2158 79 23 6   2021-05-18 Under 1 year 56 13 0 0 0 0   2021-05-18 1-4 years 39 6 0 0 0 0   2021-05-18 5-9 years 24 12 0 0 0 0   2021-05-18 10-19 years 141 18 0 2 0 0   2021-05-18 20-29 years 487 51 9 5 1 0   2021-05-18 30-39 years 828 111 12 14 3 0   2021-05-18 40-49 years 1079 218 37 15 3 0   2021-05-18 50-59 years 1531 371 88 18 6 1   2021-05-18 60-69 years 1574 441 247 12 4 3   2021-05-18 70-79 years 1437 290 443 8 5 2   2021-05-18 80+ years 1762 83 1321 5 1 0   2021-05-18 Unknown 4 1 1 0 0 0    Data Source: Government of Alberta    New ICU admissions are included in new hospital admissions counts.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ The current 7 day trend of cases is 978, a decrease of -7.3% from the day before
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/voc/</guid>
-      <description>Current Covid-19 VOC Cases in AlbertaTotal VOC cases identified41591168Total deaths from VOC1444VOC specimens screened69977277 Covid-19 variants of concern data current as of Mon, May 17, 2021. Alberta is no longer testing all samples for VOCs, and due to previous widespread growth in VOC cases all current Covid-19 cases should be considered as VOC cases.</description>
+      <description>Current Covid-19 VOC Cases in AlbertaTotal VOC cases identified42108517Total deaths from VOC1484VOC specimens screened70719742 Covid-19 variants of concern data current as of Tue, May 18, 2021. Alberta is no longer testing all samples for VOCs, and due to previous widespread growth in VOC cases all current Covid-19 cases should be considered as VOC cases.</description>
     </item>
     
   </channel>
