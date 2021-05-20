@@ -72,7 +72,7 @@ The current 7 day trend of cases is 786, a decrease of -8.3% from the day before
       
       <guid>http://aryntoombs.github.io/vac/</guid>
       <description>Vaccine Charts25 April, 2021
-18 May, 2021
+19 May, 2021
 function updateVacInter(slideAmount) {var imgVacInter = document.getElementById(&#34;vac_age_inter&#34;);imgVacInter.src = &#34;../vac-age-interactive/vac-age-chart-&#34; + slideAmount + &#34;.png&#34;}</description>
     </item>
     
