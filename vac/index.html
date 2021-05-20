@@ -22,7 +22,7 @@
         "datePublished": "2021-04-02T22:46:30Z",
         "dateModified" : "2021-04-02T22:46:30Z",
         "url" : "\/vac\/",
-        "wordCount" : "5",
+        "wordCount" : "23",
         "keywords" : [ "Blog" ]
     }
 </script>
@@ -37,7 +37,7 @@
 <meta itemprop="name" content="Vaccines">
 <meta itemprop="description" content="Vaccines charts"><meta itemprop="datePublished" content="2021-04-02T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2021-04-02T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="5">
+<meta itemprop="wordCount" content="23">
 <meta itemprop="keywords" content="" />
 <meta property="og:title" content="Vaccines" />
 <meta property="og:description" content="Vaccines charts" />
@@ -157,16 +157,25 @@
     <h4 class="body-display">Vaccine Charts</h4>
   </div>
   <div class="row">
-    <div class="col-12 pl-0 pr-0" id="hosp-type">
-      <img class="img-fluid" src="../vac-age-chart.png">
+  <div class="col-12 pl-0 pr-0" id="hosp-type">
+    <img class="img-fluid" src="../vac-age-interactive/vac-age-chart-24.png" id="vac_age_inter">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12 pl-5 pr-5" id="hosp-type">
+    <input type="range" min="1" max="24" value="24" step="1" class="slider" id="vac_age_slider"  onchange="updateVacInter(this.value)">
+    <div class="row">
+      <div class="col"><p class="text-left">25 April, 2021</p></div>
+      <div class="col"><p class="text-right">18 May, 2021</p></div>
     </div>
   </div>
-  <div class="row">
-    <div class="col-12 pl-0 pr-0" id="hosp-type">
-      <input type="range" min="1" max="{{ $.Site.Data.vac_age_interactive.N }}" value="{{ $.Site.Data.vac_age_interactive.N }}" step="1" class="slider" id="myRange">
-      {{ $.Site.Data.vac_age_interactive.MIN_DATE }}
-    </div>
-  </div>
+  <script>
+    function updateVacInter(slideAmount) {
+      var imgVacInter = document.getElementById("vac_age_inter");
+      imgVacInter.src = "../vac-age-interactive/vac-age-chart-" + slideAmount + ".png"
+    }
+  </script>
+</div>
   <div class="row">
     <div class="col-12 pl-0 pr-0" id="age-hosp">
       <img class="img-fluid" src="../vac-gap-chart.png">
