@@ -43,7 +43,7 @@ The current 7 day trend of cases is 473, a decrease of -9.2% from the day before
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/outbreaks/</guid>
-      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone144Edmonton Zone70South Zone18Central Zone29North Zone57 Covid-19 outbreaks (not including schools, see below) current as of Sat, May 22, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
+      <description>Current Numbers of Outbreaks by AHS ZoneCalgary Zone143Edmonton Zone67South Zone16Central Zone29North Zone57 Covid-19 outbreaks (not including schools, see below) current as of Tue, May 25, 2021. AHS non-school outbreak data updated on Tuesdays and Fridays.
 Outbreak Charts Alberta Schools are not included on this map after January 18th, 2021 as the criteria for outbreaks in schools changed.</description>
     </item>
     
@@ -72,7 +72,7 @@ The current 7 day trend of cases is 473, a decrease of -9.2% from the day before
       
       <guid>http://aryntoombs.github.io/vac/</guid>
       <description>Vaccine Charts25 April, 2021
-23 May, 2021
+24 May, 2021
 function updateVacInter(slideAmount) {var imgVacInter = document.getElementById(&#34;vac_age_inter&#34;);imgVacInter.src = &#34;../vac-age-interactive/vac-age-chart-&#34; + slideAmount + &#34;.png&#34;}</description>
     </item>
     
