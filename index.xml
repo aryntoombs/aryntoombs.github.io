@@ -88,9 +88,9 @@ Today 689 new cases of Covid-19 were identified in the province. The adjusted to
       <pubDate>Fri, 02 Apr 2021 16:46:30 -0600</pubDate>
       
       <guid>http://aryntoombs.github.io/vac/</guid>
-      <description>Vaccine Charts25 April, 2021
-17 August, 2021
-function updateVacInter(slideAmount) {var imgVacInter = document.getElementById(&#34;vac_age_inter&#34;);imgVacInter.src = &#34;../vac-age-interactive/vac-age-chart-&#34; + slideAmount + &#34;.png&#34;}Vaccination Tables@import url(&#34;https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&#34;); html { font-family: Roboto, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif; } #nfvhablnlt .gt_table { display: table; border-collapse: collapse; margin-left: 25px; margin-right: 25px; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: none; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: none; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3; }</description>
+      <description>Covid-19 vaccinations are safe and effective. More information is available here on how Covid-19 vaccines and treatments are approved in Canada. For a list of completed and ongoing clinical trials for current and future Covid-19 treatments, see the Government of Canada&#39;s list of authorized clinical trials.
+Currently there are five vaccines and four treatments approved for use in Canada. They currently include:
+Pfizer-BioNTech COVID-19 Vaccine (tozinameran) approved for use on December 9, 2020.</description>
     </item>
     
     <item>
