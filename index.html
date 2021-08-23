@@ -152,33 +152,58 @@
     </div>
 </nav>
 <main role="main">
-<div style="background-color: #ffffff">
+
+<div>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+    <a class="navbar-brand" href="#" style="font-weight: 900; font-size: 1em;">Jump to charts for</a>
+    <button class="navbar-toggler collapsed custom-toggler" type="button" data-toggle="collapse" data-target="#regionalNavBar"
+        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" class="bi bi-list" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+        </svg>
+    </button>
+      <div class="collapse navbar-collapse" id="regionalNavBar">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#daily-charts">Daily and Active Cases</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#testing-charts">Covid-19 Testing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#other-charts">Other Daily Covid-19 Information</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 </div>
 
-<div class="container-xl mt-3 mb-3" style="background-color: #252a32;">
+<div class="container-xl mt-3 mb-3" style="background-color: #252a32;" id="daily-charts">
   <div class="alert alert-dark" role="alert">
   View the daily Covid-19 <a href="/brief">briefing article</a> which sums up the numbers and trends for the province.
   </div>
   <div class="row pl-3">
-    <h4 class="body-display">Current Daily Covid-19 Cases in Alberta</h4>
+    <h4 class="body-display">Current Daily and Active Covid-19 Cases in Alberta</h4>
   </div>
 
   <div class="row">
     <div class="col-sm ml-1 mr-1">
       <div class="row box-top justify-content-center">
-        Cases on Thu, Aug 19
+        Cases on Sun, Aug 22
       </div>
       <div class="row box-bottom justify-content-center">
-        <h4>763</h4>
+        <h4>477</h4>
       </div>
     </div>
 
     <div class="col-sm ml-1 mr-1">
       <div class="row box-top justify-content-center">
-        Total adjusted cases not including current date
+        Adjusted cases to previous dates
       </div>
       <div class="row box-bottom justify-content-center">
-        <h4>-14</h4>
+        <h4>1495</h4>
       </div>
     </div>
 
@@ -187,13 +212,23 @@
         7 day trend
       </div>
       <div class="row box-bottom justify-content-center">
-        <h4>627</h4>
+        <h4>681</h4>
       </div>
     </div>
+
+    <div class="col-sm ml-1 mr-1">
+      <div class="row box-top justify-content-center">
+        Active cases in Alberta
+      </div>
+      <div class="row box-bottom justify-content-center">
+        <h4>7777</h4>
+      </div>
+    </div>
+
   </div>
 
   <div class="row mb-3 pr-1 pt-1 justify-content-end">
-    <p class="m-1"><i class="bi bi-info-circle-fill"></i> Covid-19 data current as of Thu, Aug 19, 2021. The Government of Alberta has currently stopped reporting Covid-19 data on weekends. Reduced testing for Covid-19 starting on July 29th has resulted in decreased accuracy of daily case numbers. Caution should be applied when interpreting these values as they may not be representive of the population as a whole.</p>
+    <p class="m-1"><i class="bi bi-info-circle-fill"></i> Covid-19 data current as of Sun, Aug 22, 2021. The Government of Alberta has currently stopped reporting Covid-19 data on weekends. Reduced testing for Covid-19 starting on July 29th has resulted in decreased accuracy of daily case numbers. Caution should be applied when interpreting these values as they may not be representive of the population as a whole.</p>
   </div>
 
   <div class="row">
@@ -225,16 +260,32 @@
 
   <div class="row">
     <div class="col-12 pl-0 pr-0">
-      <img class="img-fluid" src="Perc_Pos.png">
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-12 pl-0 pr-0">
       <img class="img-fluid" src="Active_Case_Total.png">
     </div>
   </div>
+</div>
 
+<hr style="border-top: 2px solid #343a40">
+
+<div class="container-xl mt-3 mb-3" style="background-color: #252a32;" id="testing-charts">
+  <div class="row pl-3">
+    <h4 class="body-display">Covid-19 Testing</h4>
+  </div>
+  <div class="row">
+    <div class="col-12 pl-0 pr-0">
+      <img class="img-fluid" src="Perc_Pos.png">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 pl-0 pr-0">
+      <img class="img-fluid" src="all-regional-test-.png">
+    </div>
+  </div>
+</div>
+
+<hr style="border-top: 2px solid #343a40">
+
+<div class="container-xl mt-3 mb-3" style="background-color: #252a32;" id="other-charts">
   <div class="row pl-3">
     <h4 class="body-display">Other Daily Covid-19 Information for Alberta</h4>
   </div>
